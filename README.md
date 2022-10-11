@@ -1,27 +1,14 @@
 # Global_AI_Hub_1st_Project
 # Project 1
 
-Bu projede bir öğrenci not sistemi oluşturacaksınız. Sizden istenilenler:
+A student grade system for Linear Algebra has been created with the following features:
 
-Not aralığınızı oluşturunuz (100-80 ⇒ A, 79-70 ⇒ B vb.)
+Standard letter grading
 
-Öğrenci Bilgilerini (Ad, Soyad, Okul No, sınav puanı) girebileceğiniz ve bu bilgilerin tutulabileceği bir sistem oluşturunuz.
+Student information sample: Name, Surname, ID, Midterm1, Midterm2, Final
 
-Öğrenci dersi geçti ise öğrencinin bilgilerinin tutulduğu alana “Geçti” yazısı, öğrenci dersi geçemedi ise “kaldı” yazısını göstermesi gerekmektedir.
+Passed & Failed Verdict
 
-Notları girilen öğrencilerden dersi geçenleri ve geçmeyenleri gösteren bir Dataframe oluşturunuz.
+Creating a Dataframe that shows the students whose grades have been entered, who passed the course and those who did not.
 
-Oluşturulan Dataframe’i Excel tablosuna dönüştürünüz.
-
-Dördüncü eleman olan 2 sayısı 27'den küçük olduğu için yer değiştirilir. 16 ve 22 sayılarından da küçük olduğu için dizinin en başına atılır.
-
-Beşinci eleman olan 18 sayısı 27 ve 22 sayılarından küçük olduğu için dizinin üçüncü sırasına yerleştirilir.
-
-
-Kendinize bir ders belirleyiniz. (Matematik,Fizik, Lineer Cebir vb.)
-Not aralığınızı oluşturunuz (100-80 ⇒ A, 79-70 ⇒ B vb.)
-Öğrenci Bilgilerini (Ad, Soyad, Okul No, sınav puanı) girebileceğiniz ve bu bilgilerin tutulabileceği bir sistem oluşturunuz.
-Girilen bilgilerden yola çıkarak öğrencinin dersi geçip geçmediğini göstermesi gerekmektedir.
-Öğrenci dersi geçti ise öğrencinin bilgilerinin tutulduğu alana “Geçti” yazısı, öğrenci dersi geçemedi ise “kaldı” yazısını göstermesi gerekmektedir.
-Notları girilen öğrencilerden dersi geçenleri ve geçmeyenleri gösteren bir Dataframe oluşturunuz. 
-Oluşturulan Dataframe’i Excel tablosuna dönüştürünüz.
+Converting the created Dataframe to an Excel table.
