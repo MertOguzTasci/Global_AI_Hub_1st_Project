@@ -1,0 +1,5 @@
+Furkan DAĞ - Linear Algebra Letter Grade :CC -->passed
+Enes ERGE - Linear Algebra Letter Grade :FD -->failed
+Mert TAŞCI - Linear Algebra Letter Grade :DC -->passed
+Metin BUDAK - Linear Algebra Letter Grade :FF -->failed
+Doğukan GEDİK - Linear Algebra Letter Grade :CC -->passed
